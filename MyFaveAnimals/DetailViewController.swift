@@ -1,6 +1,6 @@
 //
 //  DetailViewController.swift
-//  MyBand1
+//  MyBands
 //
 //  Created by cis280 on 10/2/17.
 //  Copyright © 2017 Rock Valley College. All rights reserved.
